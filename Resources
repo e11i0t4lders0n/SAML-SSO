@@ -1,0 +1,16 @@
+https://cheatsheetseries.owasp.org/cheatsheets/SAML_Security_Cheat_Sheet.html
+https://www.cloudflare.com/learning/access-management/what-is-saml/
+https://duo.com/blog/the-beer-drinkers-guide-to-saml
+https://developer.okta.com/blog/2018/02/27/a-breakdown-of-the-new-saml-authentication-bypass-vulnerability
+https://medium.com/swlh/hacking-saml-bce30483d020
+https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementations
+https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/
+https://workos.com/blog/fun-with-saml-sso-vulnerabilities-and-footguns
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/
+https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/
+https://github.com/kelbyludwig/saml-attack-surface
+http://secretsofappsecurity.blogspot.com/2017/01/saml-security-xml-external-entity-attack.html
+https://seanmelia.wordpress.com/2016/01/09/xxe-via-saml/
+https://hackerone.com/reports/812064
+https://hackerone.com/reports/136169
